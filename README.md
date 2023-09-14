@@ -25,4 +25,4 @@ This is my personal resume website, created with HTML. It's an online version of
 
 - HTML
 
-### Website:
+### Website: https://ganeshganapathi.github.io/Resume/
